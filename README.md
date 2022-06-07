@@ -1,3 +1,5 @@
-# Test-Creat-Account-and-Login
+Pojeto de automação de teste de interface
 
-Criação de teste automatizado utilizando Page Objects pra execução dos cenários.
+Objetivo dos tetes: Testes positivos e negativos nas atividades de criação de conta e de Login.
+
+Uso da plataforma Cypress com apoio do Cucumber pra escrita do BDD.
