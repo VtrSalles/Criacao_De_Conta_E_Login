@@ -1,4 +1,4 @@
-Pojeto de automação de teste de interface
+Pojeto de automação de teste de interface.
 
 Objetivo dos tetes: Testes positivos e negativos nas atividades de criação de conta e de Login.
 
